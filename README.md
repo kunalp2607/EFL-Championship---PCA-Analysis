@@ -13,4 +13,15 @@ Applied PCA to Championship Players football statistics to reduce and combine pl
   
 - PC3 is associated with variables such as Crosses, Long Balls, Assists and Key Passes, suggesting that it captures playmaking ability, particularly related to passing and chance creation.
 
-###
+
+## Business Implications
+The PCA results suggest three player archetypes. Players scoring highly on PC1 tend to exhibit strong attacking output, those scoring highly on PC2 demonstrate stronger defensive contributions and players with high scores on PC3 show strong playmaking ability.
+
+### Business Application 1: Player Recruitment
+A club could use this analysis to identify potential replacements for players who have left the team. For example, when Adam Armstrong departed Southampton F.C his PCA values were used to find players with similar performance metrics. A dataframe was created containing each player’s PCA values for Attacking, Playmaking and Defending. Armstrong’s values were compared to other strikers by calculating the absolute differences and sorting based on PC1, which is most associated with attacking output.
+
+
+
+
+
+### Business Application 2: Linking Player Performance to Team Outcomes
