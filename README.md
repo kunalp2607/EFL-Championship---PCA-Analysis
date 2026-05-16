@@ -29,12 +29,12 @@ Using this method, three players: Haji Wright, Patrick Agyemang and Joe Gelhardt
 ### Business Application 2: Linking Player Performance to Team Outcomes
 By comparing top players and top teams across PC, we can see how player-level performance translates into team-level outcomes, and to examine differences in playing style and performance distribution across teams.
 
-![PC3 Top Players](PC3Top%20Players.jpg)
-
 <p align="center">
   <img src="PC3Overall%20teams.jpg" alt="PC3 Overall Teams">
 </p>
 
 PC3 highlights differences in playmaking across teams. Teams such as Sheffield United and Wrexham show stronger creative profiles, suggesting that playmaking ability contributes to overall team style.
+
+![PC3 Top Players](PC3Top%20Players.jpg)
 
 However, teams like Coventry City and Millwall, despite having top-performing players, do not rank highly at the team level, indicating that strong individual performances do not always translate into overall team strength.
